@@ -80,5 +80,5 @@ This repository is maintained by:
 
 ---
 
-For more information and updates, follow [Jan Daniel Semrau on GitHub](https://github.com/jsemrau).
+For more information and updates, follow [Jan Daniel Semrau on LinkedIn](https://www.linkedin.com/in/jandsemrau/).
 
