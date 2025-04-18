@@ -38,21 +38,9 @@ To explore the projects within this repository:
 
 ## 🛠 Installation
 
-To get started with a project, you may need to install dependencies. Here's a general guide for installing them:
+To get started with a project, you don"t need to install dependencies.
+Unless you don't have a PDF reader on your machine.
 
-1. **Navigate to the Project Directory**:
-   ```bash
-   cd path/to/project
-   ```
-
-2. **Install Dependencies**:
-   If the project uses `pip` for Python dependencies, you can install them with:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Project**:
-   Follow the specific instructions in the project's README to run or test the agent.
 
 ---
 
