@@ -1,7 +1,8 @@
 
 # 🧠 Agent Repository
 
-A curated collection of AI agent projects, research reports, and consulting resources focused on cognitive agents, FinTech applications, and responsible AI practices.
+A curated collection of AI agent studies, research reports, consulting resources, and market analyses focused on AI agents and their applications in FinTech applications and responsible AI practices.
+
 
 ---
 
@@ -81,4 +82,6 @@ This repository is maintained by:
 ---
 
 For more information and updates, follow [Jan Daniel Semrau on LinkedIn](https://www.linkedin.com/in/jandsemrau/).
+
+Or read my work on AI Agents on **[Encyclopedia Autonomica](https://jdsemrau.substack.com)**.
 
