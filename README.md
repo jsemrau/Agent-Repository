@@ -1,7 +1,7 @@
 
 # 🧠 Agent Repository
 
-A curated collection of AI agent studies, research reports, consulting resources, and market analyses focused on AI agents and their applications in FinTech applications and responsible AI practices.
+A curated collection of AI agent studies, research reports, consulting resources, and market analyses focused on AI agents and their applications in FinTech, concluding with responsible AI practices.
 
 
 ---
