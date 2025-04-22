@@ -85,5 +85,5 @@ For more information and updates, follow [Jan Daniel Semrau on LinkedIn](https:/
 
 Or read my work on AI Agents on **[Encyclopedia Autonomica](https://jdsemrau.substack.com)**.
 
-If AI agents have started raising questions for you from a risk or operational safety standpoint, I’m offering 1:1 sessions to dive into exactly that. **[AI Agent Safety & Operational Risk Management ]([https://jdsemrau.substack.com](https://mentorcruise.com/sessions/ai-agent-safety-operation-jan-daniel-sem1318/book/12858/))**.
+If AI agents have started raising questions for you from a risk or operational safety standpoint, I’m offering 1:1 sessions to dive into exactly that. **[AI Agent Safety & Operational Risk Management ](https://mentorcruise.com/sessions/ai-agent-safety-operation-jan-daniel-sem1318/book/12858/)**.
 
