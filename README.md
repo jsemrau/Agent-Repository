@@ -14,7 +14,7 @@ The repository is organized into the following directories:
 - **Consulting**: Resources and materials related to AI consulting services.
 - **FinTech**: Projects and tools tailored for financial technology applications.
 - **Research**: Academic papers, experiments, and research findings in AI.
-- **Responsible AI**: Guidelines and tools promoting ethical AI development.
+- **Governance**: Guidelines and tools promoting ethical AI development.
 
 ---
 
